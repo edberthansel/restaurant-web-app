@@ -1,4 +1,7 @@
 # restaurant-web-app
+## Create UI for Restaurant Web App using Vue JS and BootstrapVue 
+
+Clone this repository first, then follow below steps to run the code: 
 
 ## Project setup
 ```
